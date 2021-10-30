@@ -57,7 +57,7 @@
 
   - 开启smtp/pop3服务
 
-  ![image-20211030211855609](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20211030211855609.png)
+  ![image-20211030232916271](https://raw.githubusercontent.com/learner-lu/picbed/master/image-20211030232916271.png) 
 
   - **会提供一个登录码，改密码只会显示一次，请注意保存。登陆的时候使用此密码替换掉原先邮箱的密码，即邮箱名不变，密码使用此密码！**
 
@@ -88,7 +88,7 @@
 
 - send_window.h 发送窗口设计
 
-![image-20211030224750356](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20211030224750356.png) 
+![image-20211030233008505](https://raw.githubusercontent.com/learner-lu/picbed/master/image-20211030233008505.png) 
 
 - receive_window.h 接收信息窗口实现
 
